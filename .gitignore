@@ -1,0 +1,4 @@
+/build/
+/.gradle/
+/.idea/
+/build/reports/tests/test/
